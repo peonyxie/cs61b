@@ -1,0 +1,3 @@
+Error: Could not find or load main class amazons.Main
+Caused by: java.lang.ClassNotFoundException: amazons.Main
+Program 2 ended with: time limit exceeded waiting for opponent

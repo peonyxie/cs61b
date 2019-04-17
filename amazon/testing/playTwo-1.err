@@ -1,0 +1,3 @@
+Error: Could not find or load main class amazons.Main
+Caused by: java.lang.ClassNotFoundException: amazons.Main
+Program 1 ended with: process did not exit normallly.
